@@ -1,4 +1,8 @@
 # Conditional Profile Card
+Proyecto en el que damos funcionalidada a los inputs que aparece en la web para que al insertar los datos que queremos se cambien automaticamente en la Profile Card.
+- Para ello hemos modificado la funcion en la cual a los codigos html le hemos aplicado un operador ternario llamando a las variables más abajo destacadas para que los inputs tengan el comportamiento esperado.
+
+# Conditional Profile Card
 
 Como desarrollador web, estarás creando muchos HTML dinámicos + CSS usando algoritmos de Javascript.
 
